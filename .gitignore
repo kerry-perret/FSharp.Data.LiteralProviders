@@ -1,8 +1,20 @@
-.paket/
-paket-files/
+# Traditional .NET Stuff
 packages/
 **/[Oo]bj/
 **/[Bb]in/
 .vs/
-.ionide/
 *.user
+
+# Paket Dependency Manager
+.paket/paket.exe
+paket-files/
+.paket/
+
+# vscode
+.ionide
+.vscode
+
+# JetBrains
+.idea
+*.dotCover
+*.sln.iml
