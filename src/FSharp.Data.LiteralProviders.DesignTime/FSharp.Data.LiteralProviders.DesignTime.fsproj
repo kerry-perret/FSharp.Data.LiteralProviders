@@ -22,6 +22,7 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Env.fs" />
     <Compile Include="TextFile.fs" />
+    <Compile Include="BinaryFile.fs" />
     <Compile Include="BuildDate.fs" />
     <Compile Include="Provider.fs" />
     <None Include="paket.references" />
